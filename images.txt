@@ -1,4 +1,4 @@
-nginx
-onlyoffice/documentserver:9.0
 #支持指定架构
---platform=linux/arm64 xiaoyaliu/alist
+--platform=linux/arm64 nginx
+--platform=linux/arm64 kafka
+--platform=linux/arm64 redis
