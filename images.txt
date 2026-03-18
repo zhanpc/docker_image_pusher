@@ -1,2 +1,4 @@
 #支持指定架构
---platform=linux/x86_64 zookeeper
+--platform=linux/x86_64 nginx
+--platform=linux/x86_64 redis
+--platform=linux/x86_64 kafka
